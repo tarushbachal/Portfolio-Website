@@ -1,0 +1,75 @@
+.bg-custom{
+	background-color: #3f3f43;
+}
+.hover1:hover{
+	opacity: 60%
+}
+
+.font1{
+	font-family: "Sofia", sans-serif;
+
+}
+
+section{
+height: 90vh;
+display: flex;
+ justify-content: center;
+ align-items: center;
+ }
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+ 
+}
+
+.Tarush{
+	font-size: 90px;
+	visibility: 80%;
+}
+.Tarush1{
+	font-size: 30px;
+	text-align: center;
+	visibility: 75%;
+}
+.image1{
+	border-radius: 40px;
+	
+	display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.container2{
+	font-family: "Audiowide", cursive;
+	font-size: 20px;
+}
+
+hr.solid {
+  border-top: 4px solid #f535aa ;
+}
+
+.icons{
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	margin: 5px;
+
+}
+.icon{
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+.icons:hover{
+	opacity: 80%;
+	cursor: pointer;
+	border: solid #f535aa;
+
+}
+.contact{
+	font-size: 17px;
+}
